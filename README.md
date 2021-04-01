@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Postgresql, reconcilate my deep admiration for Beastie while actively trying to reach saintship in Church of Emacs.
 - 🌱 I’m currently meditating on the meaning of GNU
 - 💞️ I’m looking to collaborate on reaching the Singularity.
-- 📫 How to reach me ghola.dot@gmail.com
+- 📫 How to reach me ngoqde.suvwl@gmail.com
 
 
 1.      Onward, Emacs coders, marching as to war, 
